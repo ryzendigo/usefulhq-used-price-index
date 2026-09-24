@@ -1,11 +1,14 @@
 # usefulHQ Used Price Index
 
 A daily index of secondhand prices, built from the cheapest genuine eBay US listing for about
-2,100 specific product models across 88 categories. Free to use with attribution.
+2,100 specific product models across 88 categories. Licensed [CC BY 4.0](LICENSE): free to use, including commercially,
+with credit to "usefulHQ Used Price Index".
 
 - Live page, with the current reading and the method: https://usefulhq.com/used-price-index/
 - Data: [`used-price-index.csv`](used-price-index.csv), one row per day per scope
   (`all` plus one row per category), updated daily.
+- Monthly readings, one fixed page per completed month that is not revised afterwards:
+  https://usefulhq.com/used-price-index/2026-08/ (August 2026; later months follow the same pattern)
 
 ## What is in the CSV
 
