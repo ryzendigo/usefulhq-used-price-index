@@ -43,6 +43,17 @@ It tracks the floor of the market (cheapest listing), not what a typical buyer p
 are equally weighted by model, so a category with eight models counts as much as one with fifty.
 History starts in August 2026, so a six-week move is a hint, not a trend.
 
+## Where it sits next to the CPI
+
+The US Consumer Price Index has long priced used cars and trucks, and until recently little else
+bought secondhand. Secondhand clothing joined it in early 2025, and the Bureau of Labor Statistics
+says it is researching others, naming electronics, books and furniture
+([Monthly Labor Review, May 2026](https://www.bls.gov/opub/mlr/2026/article/turning-thrifty-incorporating-secondhand-apparel-into-the-consumer-price-index.htm)).
+This index is no substitute for that work: it prices the cheapest listing rather than what people
+pay, and it weights models equally rather than by what households spend. What it offers is a daily
+reading of the goods that research is looking at, most of them electronics, while the official
+series does not yet cover them.
+
 ## Citing it
 
 Please link https://usefulhq.com/used-price-index/ and include the date, since the numbers change
