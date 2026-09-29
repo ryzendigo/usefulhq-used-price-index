@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and link https://usefulhq.com/used-price-index/ with the date you read it, since the figures update daily."
+type: dataset
+title: "usefulHQ Used Price Index"
+abstract: "A daily chained index of secondhand prices, built from the cheapest genuine used eBay US listing for about 2,000 specific product models across 88 categories, from 7 August 2026. One row per day for the whole market and for each category. Listing prices are asking prices rather than transactions, and models are weighted equally rather than by household spending."
+authors:
+  - name: "usefulHQ"
+    website: "https://usefulhq.com"
+    email: "hello@usefulhq.com"
+url: "https://usefulhq.com/used-price-index/"
+repository-code: "https://github.com/ryzendigo/usefulhq-used-price-index"
+license: CC-BY-4.0
+keywords:
+  - price index
+  - secondhand
+  - used prices
+  - inflation
+  - eBay
+  - time series
